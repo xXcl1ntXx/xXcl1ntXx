@@ -6,30 +6,27 @@
   <table border="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
       <td valign="top" style="border: none;">
-<pre><code>
-                                    
-                 .Q                 
-                 0LQ                
-                ZQLL<               
-               u0QLLL'              
-              iO00^LLL              
-             .OO0  ~LL0             
-             ZOO'   YLLQ            
-            wZO<     OLQ/           
-            QmZv      0Q0^          
-          (mmm         000          
-         <mmm         '00Q.         
-       `mmmm           i0QLQ        
-  ZZmmmmmmm.             /QLL0Zmmmj 
-  [Zmmmmmm;               0LL0Zmmm  
-  {Zmmmmm{                 QL0Zmmm  
-  Zmmmmmm                  IL0Zmmwn 
- -    wmml                 JL0r   I 
-   C    `mm              ,Qn    f   
-     :u.     +['    ^f^     [-      
-        'pmr    )0Lr    iQO^        
-              .^<]]_I'              
-                                    
+<pre><code">
+                  ████          ▄███
+                ▀█▄▄▄▄██        █▄▄▄▄██
+               ██▄▀   ▄▄███████▄▀ ▀▀▄▄██
+               ██ ████ ▀▄▄▄▄▄▄▄ ▄███  ██
+               ██ ████ ▀▄▄▄▄▄▄▄ ▄███  ██
+               ██      ▀▄▄▄▄▄▄▄       ██
+             ██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+             ██▄▄▄██▄▄▄▄▄▄▄▄▄▄▄▄▄▄██▄▄▄▄█
+             ██▄▄▄▀▀██████████████▀▀▄▄▄▄█
+               ██▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄▄██
+               ██▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄▄██
+               ██▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄▄██
+         ▀   ████▄▄▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄▄▄▄███▀
+        ▀▀███▄▄██▄██▄▄▀▀▀▀▀▀▀▀▀▀▄▄██▄▄██▄████▀▀
+        ██▄▄▄▄▄██▄██▄▄▀▀▀▀▀▀▀▀▀▀▄▄██▄▄██▄▄▄▄▄██
+        ██▄▄▄▄▄██▄████▄▄▀▀▀▀▀▀▀▄▄███▄▄██▄▄▄▄▄██
+          ███▄▄██▄▄▄████▄▀▀▀▀▄▄███▄▄▄▄██▄████
+           ████▄▄█▄▄▄▄▄▄█▄▄▄▄██▄▄▄▄▄██▄▄███
+         ▀█▄▄▄▄▄▄███▄▄▄▄█▄▄▄▄██▄▄▄████▄▄▄▄▄██
+         ▀███████████████████████████████████
 </code></pre>
       </td>
     <td style="border: none; font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, Courier New, monospace; text-align: left; padding-left: 20px;">
